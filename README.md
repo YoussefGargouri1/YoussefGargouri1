@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Software Engineering student @ <a href="https://insat.rnu.tn/">INSAT</a> · Tunisia <br/>
-  <b>DevOps</b> &nbsp;·&nbsp;<b>AI Engineering</b> &nbsp;·&nbsp;Systems &amp; Automation
+  <b>DevOps</b> &nbsp;·&nbsp;<b>AI Software Engineering</b> &nbsp;·&nbsp;
 </p>
 
 ---
